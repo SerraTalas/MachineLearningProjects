@@ -1,1 +1,1 @@
-# MachineLearningProjects
+In all projects, the same anonymized credit card transaction dataset was used, and the transactions in this dataset were labeled as either fraudulent or genuine. Using KNN with Euclidean distance, Naive Bayes, and CNN machine learning algorithms were employed. The aim of these projects was to detect fraudulent transactions by learning patterns from these data.
